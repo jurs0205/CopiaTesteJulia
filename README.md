@@ -125,4 +125,3 @@ O candidato será avaliado de acordo com:
 ## 📦 Entrega
 - Arquivo `.pbix` com o painel construído  
 - Documentação em `.md` ou no próprio Power BI  
-- Prazo sugerido: **3 a 5 horas de trabalho**
