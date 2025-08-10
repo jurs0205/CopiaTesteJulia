@@ -1,0 +1,151 @@
+ProdutoID,SKU,NomeProduto,Categoria,Marca,Fornecedor,PrecoBase,Ativo
+PROD000001,SKU-FYFBF8,Produto 1,Casa & Decor,Beta,Fornecedor A,385.63,1
+PROD000002,SKU-UU55TM,Produto 2,Eletrônicos,Pulse,Fornecedor A,388.52,1
+PROD000003,SKU-LX30NN,Produto 3,Casa & Decor,Vulcan,Fornecedor C,551.81,0
+PROD000004,SKU-LWUCYW,Produto 4,Calçados,Vulcan,Fornecedor D,82.23,1
+PROD000005,SKU-MU1SN0,Produto 5,Acessórios,Alpha,Fornecedor D,738.58,1
+PROD000006,SKU-0Q84JU,Produto 6,Camisetas,Vulcan,Fornecedor A,329.96,1
+PROD000007,SKU-3C3AME,Produto 7,Calçados,Alpha,Fornecedor A,623.56,1
+PROD000008,SKU-V1V8HE,Produto 8,Eletrônicos,Vulcan,Fornecedor D,816.38,1
+PROD000009,SKU-07PX6L,Produto 9,Eletrônicos,Alpha,Fornecedor C,495.17,1
+PROD000010,SKU-FLTIZH,Produto 10,Calçados,Kappa,Fornecedor C,67.09,1
+PROD000011,SKU-YP6MOJ,Produto 11,Casa & Decor,Nimbus,Fornecedor A,127.4,1
+PROD000012,SKU-BHT7T7,Produto 12,Fitness,Zeta,Fornecedor C,659.9,1
+PROD000013,SKU-TTHXVD,Produto 13,Casa & Decor,Beta,Fornecedor B,1192.81,1
+PROD000014,SKU-6JQJMC,Produto 14,Casa & Decor,Alpha,Fornecedor D,1066.38,1
+PROD000015,SKU-SA7LMS,Produto 15,Eletrônicos,Vulcan,Fornecedor B,745.49,1
+PROD000016,SKU-MD74XC,Produto 16,Fitness,Pulse,Fornecedor C,460.88,1
+PROD000017,SKU-487WGB,Produto 17,Acessórios,Alpha,Fornecedor B,514.27,1
+PROD000018,SKU-1RIFV0,Produto 18,Acessórios,Pulse,Fornecedor C,1194.89,1
+PROD000019,SKU-IUOVBJ,Produto 19,Calçados,Kappa,Fornecedor A,919.81,1
+PROD000020,SKU-NBW981,Produto 20,Camisetas,Vulcan,Fornecedor B,1095.77,1
+PROD000021,SKU-8GM6PB,Produto 21,Casa & Decor,Orion,Fornecedor A,664.78,1
+PROD000022,SKU-ZEANPO,Produto 22,Casa & Decor,Vulcan,Fornecedor A,534.0,1
+PROD000023,SKU-36PQ5Q,Produto 23,Calçados,Vulcan,Fornecedor C,923.57,1
+PROD000024,SKU-Q5HJ5D,Produto 24,Camisetas,Orion,Fornecedor B,869.35,1
+PROD000025,SKU-8QL81R,Produto 25,Casa & Decor,Kappa,Fornecedor A,639.48,1
+PROD000026,SKU-7MZ1VF,Produto 26,Calçados,Pulse,Fornecedor D,977.38,1
+PROD000027,SKU-T3DG9Q,Produto 27,Eletrônicos,Vulcan,Fornecedor D,1133.44,1
+PROD000028,SKU-MD6IFB,Produto 28,Casa & Decor,Pulse,Fornecedor C,853.69,1
+PROD000029,SKU-0YAAWQ,Produto 29,Fitness,Orion,Fornecedor D,158.84,1
+PROD000030,SKU-KBX28K,Produto 30,Eletrônicos,Vulcan,Fornecedor A,843.56,1
+PROD000031,SKU-LVROUY,Produto 31,Casa & Decor,Alpha,Fornecedor C,922.33,1
+PROD000032,SKU-E3R1Q1,Produto 32,Camisetas,Beta,Fornecedor A,1028.27,1
+PROD000033,SKU-0D3J7E,Produto 33,Eletrônicos,Alpha,Fornecedor A,882.94,1
+PROD000034,SKU-TLG78P,Produto 34,Eletrônicos,Pulse,Fornecedor C,1122.18,1
+PROD000035,SKU-XYYTFZ,Produto 35,Acessórios,Pulse,Fornecedor C,405.28,1
+PROD000036,SKU-QTLQTB,Produto 36,Camisetas,Orion,Fornecedor B,342.62,1
+PROD000037,SKU-P1T84J,Produto 37,Eletrônicos,Orion,Fornecedor C,1193.29,1
+PROD000038,SKU-AD7WFQ,Produto 38,Acessórios,Beta,Fornecedor D,606.12,1
+PROD000039,SKU-4PCGV6,Produto 39,Camisetas,Alpha,Fornecedor B,78.76,1
+PROD000040,SKU-PMXRQQ,Produto 40,Camisetas,Nimbus,Fornecedor B,78.59,0
+PROD000041,SKU-FIOBG9,Produto 41,Camisetas,Vulcan,Fornecedor B,395.79,1
+PROD000042,SKU-OTQYRB,Produto 42,Calçados,Beta,Fornecedor B,265.26,1
+PROD000043,SKU-J78LG2,Produto 43,Casa & Decor,Beta,Fornecedor B,373.07,1
+PROD000044,SKU-AN2E1X,Produto 44,Camisetas,Nimbus,Fornecedor A,915.95,1
+PROD000045,SKU-YZ2SIH,Produto 45,Calçados,Kappa,Fornecedor C,189.05,1
+PROD000046,SKU-9QJCQY,Produto 46,Acessórios,Pulse,Fornecedor C,207.69,1
+PROD000047,SKU-NKUAKH,Produto 47,Acessórios,Beta,Fornecedor B,314.32,1
+PROD000048,SKU-U5KM6O,Produto 48,Casa & Decor,Pulse,Fornecedor D,552.23,1
+PROD000049,SKU-L0FUWP,Produto 49,Acessórios,Nimbus,Fornecedor A,886.88,1
+PROD000050,SKU-HLTVND,Produto 50,Calçados,Pulse,Fornecedor B,418.86,1
+PROD000051,SKU-5HOZ4C,Produto 51,Calçados,Nimbus,Fornecedor A,564.82,1
+PROD000052,SKU-WDF0VF,Produto 52,Calçados,Alpha,Fornecedor A,233.72,1
+PROD000053,SKU-JZ77TF,Produto 53,Calçados,Orion,Fornecedor D,29.0,1
+PROD000054,SKU-9SRR7O,Produto 54,Fitness,Pulse,Fornecedor B,871.43,1
+PROD000055,SKU-9OEF2Q,Produto 55,Fitness,Kappa,Fornecedor C,962.05,1
+PROD000056,SKU-17TSH7,Produto 56,Calçados,Nimbus,Fornecedor C,348.5,1
+PROD000057,SKU-62J8TV,Produto 57,Casa & Decor,Beta,Fornecedor C,854.1,1
+PROD000058,SKU-F90DDS,Produto 58,Acessórios,Vulcan,Fornecedor D,1117.3,1
+PROD000059,SKU-LMTYS8,Produto 59,Casa & Decor,Vulcan,Fornecedor B,654.29,0
+PROD000060,SKU-FOKI5H,Produto 60,Fitness,Beta,Fornecedor A,1175.7,1
+PROD000061,SKU-N53ZFW,Produto 61,Camisetas,Zeta,Fornecedor C,985.78,1
+PROD000062,SKU-E6MCSJ,Produto 62,Eletrônicos,Kappa,Fornecedor D,1086.66,1
+PROD000063,SKU-BTDNVY,Produto 63,Fitness,Nimbus,Fornecedor D,215.1,1
+PROD000064,SKU-PTKCHS,Produto 64,Casa & Decor,Kappa,Fornecedor B,767.89,0
+PROD000065,SKU-BFDNFN,Produto 65,Eletrônicos,Kappa,Fornecedor A,514.35,1
+PROD000066,SKU-EPPE1A,Produto 66,Acessórios,Zeta,Fornecedor B,99.07,0
+PROD000067,SKU-YNRLUF,Produto 67,Casa & Decor,Nimbus,Fornecedor C,237.95,1
+PROD000068,SKU-UUXZ5L,Produto 68,Eletrônicos,Beta,Fornecedor D,634.05,1
+PROD000069,SKU-P8XAV2,Produto 69,Acessórios,Beta,Fornecedor C,170.42,0
+PROD000070,SKU-MV6JXS,Produto 70,Camisetas,Pulse,Fornecedor C,161.73,1
+PROD000071,SKU-2ZHY2S,Produto 71,Fitness,Pulse,Fornecedor A,951.15,1
+PROD000072,SKU-NE673N,Produto 72,Calçados,Orion,Fornecedor C,919.47,1
+PROD000073,SKU-20RQDM,Produto 73,Fitness,Beta,Fornecedor D,524.99,0
+PROD000074,SKU-QUYDX5,Produto 74,Acessórios,Orion,Fornecedor C,1187.49,1
+PROD000075,SKU-BY7EB4,Produto 75,Casa & Decor,Vulcan,Fornecedor C,334.96,0
+PROD000076,SKU-E093KM,Produto 76,Acessórios,Zeta,Fornecedor A,314.05,1
+PROD000077,SKU-ZI78FN,Produto 77,Camisetas,Beta,Fornecedor C,683.33,1
+PROD000078,SKU-896RLM,Produto 78,Acessórios,Vulcan,Fornecedor B,301.42,1
+PROD000079,SKU-A6AWST,Produto 79,Calçados,Zeta,Fornecedor C,1156.33,1
+PROD000080,SKU-5X95SJ,Produto 80,Fitness,Orion,Fornecedor B,1046.28,1
+PROD000081,SKU-2BHKW4,Produto 81,Casa & Decor,Nimbus,Fornecedor B,585.89,1
+PROD000082,SKU-75OVC9,Produto 82,Acessórios,Pulse,Fornecedor A,639.11,1
+PROD000083,SKU-4ACSOY,Produto 83,Eletrônicos,Alpha,Fornecedor D,410.97,1
+PROD000084,SKU-B3WKZH,Produto 84,Calçados,Nimbus,Fornecedor C,514.37,0
+PROD000085,SKU-7CDVVB,Produto 85,Camisetas,Orion,Fornecedor A,847.79,1
+PROD000086,SKU-D0GMBS,Produto 86,Acessórios,Zeta,Fornecedor B,847.6,1
+PROD000087,SKU-3MIYV8,Produto 87,Acessórios,Orion,Fornecedor C,942.99,1
+PROD000088,SKU-ZQXX62,Produto 88,Calçados,Kappa,Fornecedor D,792.66,1
+PROD000089,SKU-TS333U,Produto 89,Acessórios,Alpha,Fornecedor C,544.51,1
+PROD000090,SKU-EWTIEY,Produto 90,Eletrônicos,Kappa,Fornecedor B,1033.33,1
+PROD000091,SKU-URMSMT,Produto 91,Eletrônicos,Alpha,Fornecedor D,688.29,1
+PROD000092,SKU-RRP12Z,Produto 92,Fitness,Beta,Fornecedor A,609.18,1
+PROD000093,SKU-XOK24Y,Produto 93,Acessórios,Pulse,Fornecedor C,561.34,1
+PROD000094,SKU-UUC0HQ,Produto 94,Camisetas,Nimbus,Fornecedor C,877.42,1
+PROD000095,SKU-DM1LT6,Produto 95,Casa & Decor,Zeta,Fornecedor B,1084.55,1
+PROD000096,SKU-7UI5FU,Produto 96,Casa & Decor,Nimbus,Fornecedor A,976.53,0
+PROD000097,SKU-T38MQG,Produto 97,Casa & Decor,Vulcan,Fornecedor C,365.64,1
+PROD000098,SKU-XZ0TIL,Produto 98,Camisetas,Pulse,Fornecedor C,738.76,1
+PROD000099,SKU-EVGB4Y,Produto 99,Fitness,Beta,Fornecedor C,356.95,0
+PROD000100,SKU-UWTWPM,Produto 100,Calçados,Orion,Fornecedor D,202.25,1
+PROD000101,SKU-TNU3NQ,Produto 101,Calçados,Zeta,Fornecedor D,127.16,1
+PROD000102,SKU-22MAGB,Produto 102,Acessórios,Vulcan,Fornecedor B,187.02,1
+PROD000103,SKU-0HXWSG,Produto 103,Acessórios,Orion,Fornecedor C,820.57,1
+PROD000104,SKU-9QL597,Produto 104,Acessórios,Pulse,Fornecedor C,510.95,0
+PROD000105,SKU-3XFMUY,Produto 105,Fitness,Orion,Fornecedor A,637.41,1
+PROD000106,SKU-9EZZEE,Produto 106,Acessórios,Kappa,Fornecedor B,1051.48,1
+PROD000107,SKU-JILNIG,Produto 107,Casa & Decor,Orion,Fornecedor C,1184.47,1
+PROD000108,SKU-OTG4TK,Produto 108,Fitness,Orion,Fornecedor B,372.17,0
+PROD000109,SKU-ON435C,Produto 109,Fitness,Kappa,Fornecedor B,1030.1,1
+PROD000110,SKU-E3GIA2,Produto 110,Fitness,Orion,Fornecedor A,371.32,1
+PROD000111,SKU-HV62SL,Produto 111,Acessórios,Nimbus,Fornecedor C,95.43,1
+PROD000112,SKU-5P6S18,Produto 112,Calçados,Zeta,Fornecedor D,605.78,1
+PROD000113,SKU-KK7M7D,Produto 113,Fitness,Pulse,Fornecedor D,726.71,1
+PROD000114,SKU-RP5VIV,Produto 114,Casa & Decor,Zeta,Fornecedor A,646.45,1
+PROD000115,SKU-W8JAKK,Produto 115,Acessórios,Kappa,Fornecedor A,275.64,1
+PROD000116,SKU-PJXONN,Produto 116,Calçados,Vulcan,Fornecedor C,1034.78,1
+PROD000117,SKU-68KOZJ,Produto 117,Calçados,Pulse,Fornecedor C,771.56,1
+PROD000118,SKU-766F1X,Produto 118,Eletrônicos,Zeta,Fornecedor A,559.62,1
+PROD000119,SKU-NJV69T,Produto 119,Casa & Decor,Beta,Fornecedor C,322.3,1
+PROD000120,SKU-RMATKN,Produto 120,Fitness,Nimbus,Fornecedor C,935.0,1
+PROD000121,SKU-NNVNU2,Produto 121,Casa & Decor,Nimbus,Fornecedor D,899.02,1
+PROD000122,SKU-GE95KO,Produto 122,Casa & Decor,Alpha,Fornecedor A,148.56,1
+PROD000123,SKU-2NO65W,Produto 123,Casa & Decor,Zeta,Fornecedor D,935.11,1
+PROD000124,SKU-RDE6JB,Produto 124,Eletrônicos,Vulcan,Fornecedor B,713.34,1
+PROD000125,SKU-74YHIP,Produto 125,Casa & Decor,Zeta,Fornecedor D,287.1,1
+PROD000126,SKU-2C94EL,Produto 126,Calçados,Pulse,Fornecedor B,526.58,1
+PROD000127,SKU-0GKE34,Produto 127,Fitness,Kappa,Fornecedor B,1035.42,1
+PROD000128,SKU-6OFX4U,Produto 128,Fitness,Kappa,Fornecedor D,66.51,1
+PROD000129,SKU-9NX265,Produto 129,Fitness,Orion,Fornecedor D,1064.14,1
+PROD000130,SKU-N2IU24,Produto 130,Calçados,Zeta,Fornecedor D,673.52,1
+PROD000131,SKU-QAYZGS,Produto 131,Fitness,Beta,Fornecedor B,216.8,1
+PROD000132,SKU-RGGEZW,Produto 132,Fitness,Vulcan,Fornecedor B,1077.5,1
+PROD000133,SKU-L5T5BR,Produto 133,Casa & Decor,Pulse,Fornecedor D,367.72,1
+PROD000134,SKU-U1896R,Produto 134,Fitness,Alpha,Fornecedor A,212.02,1
+PROD000135,SKU-63HIQT,Produto 135,Camisetas,Vulcan,Fornecedor D,615.1,1
+PROD000136,SKU-KNCWAA,Produto 136,Fitness,Zeta,Fornecedor C,169.04,0
+PROD000137,SKU-OORSWJ,Produto 137,Calçados,Orion,Fornecedor B,1137.38,1
+PROD000138,SKU-RAZNML,Produto 138,Acessórios,Vulcan,Fornecedor D,175.11,1
+PROD000139,SKU-42IBSK,Produto 139,Calçados,Beta,Fornecedor A,809.02,0
+PROD000140,SKU-VNGCA7,Produto 140,Camisetas,Nimbus,Fornecedor A,709.99,0
+PROD000141,SKU-GYH5AX,Produto 141,Camisetas,Nimbus,Fornecedor B,879.4,1
+PROD000142,SKU-X4JT62,Produto 142,Fitness,Pulse,Fornecedor A,1168.99,1
+PROD000143,SKU-FLVYH0,Produto 143,Camisetas,Beta,Fornecedor C,803.85,1
+PROD000144,SKU-G0P2J7,Produto 144,Calçados,Orion,Fornecedor A,1065.2,1
+PROD000145,SKU-KBAONP,Produto 145,Calçados,Orion,Fornecedor A,406.34,1
+PROD000146,SKU-VOHWZI,Produto 146,Casa & Decor,Kappa,Fornecedor B,215.49,1
+PROD000147,SKU-MMFB3Y,Produto 147,Acessórios,Vulcan,Fornecedor A,790.97,1
+PROD000148,SKU-MSJZEC,Produto 148,Casa & Decor,Orion,Fornecedor A,528.04,0
+PROD000149,SKU-ZG4Z83,Produto 149,Acessórios,Zeta,Fornecedor D,250.5,1
+PROD000150,SKU-93PKEN,Produto 150,Casa & Decor,Orion,Fornecedor D,498.05,0
